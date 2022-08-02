@@ -1,0 +1,4 @@
+- 👋 ola meu nome é @mrique1
+- 👀 meu email de contato é marcos.henrique.santos@escola.pr.gov.br
+- 🌱 eu estou interresado em aprender a programar
+- 💞️ aprendi a programar recentemente JavaScript e Scratch
